@@ -1,0 +1,11 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Cloud Function Credentials (if any)
+*.json
+
+# Local environment files
+.env
